@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](assets\images\social-link-profile-output.png)
+![Project Screenshot](images\social-link-profile-output.png)
 
 ### Links
 
