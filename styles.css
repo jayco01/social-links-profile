@@ -101,3 +101,7 @@ h1 {
 .btn a:active {
     color: hsl(0, 0%, 8%);
 }
+
+.btn a:hover {
+    color: hsl(0, 0%, 8%);
+}
