@@ -1,4 +1,4 @@
-# Frontend Mentor - Social Links Profile Solution
+# Social Links Profile Solution
 
 This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building real-world projects.
 
@@ -57,6 +57,5 @@ I struggled with making the text inside an `<a>` tag change color when clicking 
 
 ## Author
 
-- Frontend Mentor - [@jayco01](https://www.frontendmentor.io/profile/jayco01)
 - LinkedIn - [Jay Vincent Layco](https://www.linkedin.com/in/jay-vincent-layco-39184116b/)
 
